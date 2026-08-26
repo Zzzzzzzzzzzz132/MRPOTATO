@@ -2,5 +2,10 @@
   "status": "可以联系",
   "icon": "🟢",
   "time": "刚刚",
-  "messages": []
+  "messages": [
+    {
+      "text": "1",
+      "time": "2026/8/26 16:21:19"
+    }
+  ]
 }
